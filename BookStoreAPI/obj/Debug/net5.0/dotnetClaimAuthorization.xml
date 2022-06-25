@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>dotnetClaimAuthorization</name>
+    </assembly>
+    <members>
+        <member name="M:dotnetClaimAuthorization.Controllers.UserController.Login(Models.BindingModel.LoginBindingModel)">
+            <summary>
+            To login into App  
+            </summary>
+            <param name="model"></param>
+        </member>
+    </members>
+</doc>
